@@ -200,11 +200,11 @@ export default {
       'changeReset']),
     handleChangeX () {
       this.changeX(this.x)
-      this.changeReset(true)
+      // this.changeReset(true)
     },
     handleChangeY () {
       this.changeY(this.y)
-      this.changeReset(true)
+      // this.changeReset(true)
     },
     handleChangeTempleteName () {
       this.changeTempleteName(this.templeteName)
